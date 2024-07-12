@@ -1,17 +1,19 @@
 *{
     margin: 0;
     padding: 0;
+    text-align: center;
+
 }
 
 .box{
     width: 500px;
     height: 500px;
     border: 2px solid black;
-    margin: 2rem 0 2rem;
+    margin: 1rem 0 1rem;
     display: grid;
 }
 .nav-div{
-    margin-top: 2rem;
+    margin: 1rem 0rem 1rem;
     display: flex;
     gap: 3rem;
     justify-content: center;
@@ -27,6 +29,3 @@
     align-items: center;
     gap: 2rem;
 }
-/* .box-items{
-    border: 1px solid black;
-} */
