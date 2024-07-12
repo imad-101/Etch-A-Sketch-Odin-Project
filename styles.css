@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+    margin: 2rem 0 2rem;
+    display: grid;
+}
+.nav-div{
+    margin-top: 2rem;
+    display: flex;
+    gap: 3rem;
+    justify-content: center;
+}
+.box-wraper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bottom-btns{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+/* .box-items{
+    border: 1px solid black;
+} */
